@@ -1,6 +1,6 @@
 using System;	// System namespace
 
-namespace Hello{
+namespace hello{
 	class displayHello{
 		static void Main(string[] args){
 			// Console class form System
